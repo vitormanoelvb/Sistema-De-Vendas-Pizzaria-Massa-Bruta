@@ -108,6 +108,10 @@
 
 ###
 
+<h4 align="left"> Projeto orientado pelo professor Anderson Cordeiro Cardoso.</h4>
+
+###
+
 <h2 align="left">Redes Sociais - Univale:</h2>
 
 ###
